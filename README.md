@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anant Chavan</h1>
+<h1 align="center">Hi 👋, I'm Anant</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="right" width="360" src="https://i.redd.it/1d11s820dgm91.gif" alt="Retro art for software dev"/>  
