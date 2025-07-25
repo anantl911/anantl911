@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **React Native, Data Analysis, System Design, Agentic AI, ML**
 
-- 👯 I’m looking to collaborate on [MVPInput](https://github.com/anantl911/MVPInput)
+- 👯 I’m looking to collaborate on [MVPInput](https://github.com/anantl911/MVPInput) - An app that transforms mobile phone to dualshock controllers.
 
-- 💫 Let's have fascinating conversations at [Anant Space](https://anantspace.vercel.app)
+- 💫 Let's have fascinating conversations about art, science and games at [Anant Space](https://anantspace.vercel.app)
 
 - 📝 I regularly write articles on Education and Social welfare at my blog over at Anant Space
 
