@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anant Chavan</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
-
-<img align="right" width="360" src="https://i.redd.it/1d11s820dgm91.gif" alt="Retro art for software dev"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="right" width="360" src="https://i.redd.it/1d11s820dgm91.gif" alt="Retro art for software dev"/>  
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anantl911&label=Profile%20views&color=0e75b6&style=flat" alt="anantl911" /> </p>
 
