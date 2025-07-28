@@ -14,13 +14,13 @@
 
 - 💫 Let's have fascinating conversations about art, science and games at [Anant Space](https://anantspace.vercel.app)
 
-- 📝 I regularly write articles on Education and Social welfare at my blog over at Anant Space
+ - 📝 I regularly write articles on Education and Social welfare at my blog over at Anant Space 
 
 - 💬 Ask me about **MERN stack, DSA**
 
 - 📫 How to reach me **aschavan13914112@gmail.com**
 
-- 📄 Know about my experiences [google.co.in](google.co.in)
+<!-- - 📄 Know about my experiences [google.co.in](google.co.in) !-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
