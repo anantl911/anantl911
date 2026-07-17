@@ -6,15 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anantl911&label=Profile%20views&color=0e75b6&style=flat" alt="anantl911" /> </p>
 
-- 🔭 I’m currently working on [Peeky News](https://github.com/anantl911/PeekyNews)
-
-- 🌱 I’m currently learning **React Native, Data Analysis, System Design, Agentic AI, ML**
-
-- 👯 I’m looking to collaborate on [MVPInput](https://github.com/anantl911/MVPInput) - An app that transforms mobile phone to dualshock controllers.
+- 🔭 I’m currently working on [Sussy Geek](https://github.com/SussyGeek)
 
 - 💫 Let's have fascinating conversations about art, science and games at [Anant Space](https://anantspace.vercel.app)
-
- - 📝 I regularly write articles on Education and Social welfare at my blog over at Anant Space 
 
 - 💬 Ask me about **MERN stack, DSA**
 
